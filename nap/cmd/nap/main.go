@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/ssuareza/golang/go-building-devops-tools/nap"
+	"github.com/ssuareza/go-building-devops-tools/nap"
 )
 
 var api = nap.NewAPI("https://httpbin.org")
